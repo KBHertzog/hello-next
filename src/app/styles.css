@@ -54,8 +54,8 @@ body {
   padding: 16px;
   min-height: 100%;
   font-family: sans-serif;
-  background: hsl(0deg 0% 95%);
-  color: hsl(0deg 0% 10%);
+  background: hsl(0deg 0% 15%);
+  color: hsl(0deg 0% 90%);
 }
 main {
   width: 100%;
